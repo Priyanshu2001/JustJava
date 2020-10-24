@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView2" type="id">mainImg</item>
+    <item name="textView" type="id">welText</item>
+    <item name="textView2" type="id">H1</item>
+    <item name="button" type="id">-</item>
+    <item name="button2" type="id">+</item>
+    <item name="textView3" type="id">inc</item>
+    <item name="textView4" type="id">welText</item>
+</resources>

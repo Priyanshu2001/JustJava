@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="WelcomeText">Welcome To, PRB Cafe!</string>
+    <string name="heading1">QUANTITY</string>
+    <string name="imghead">imgHead</string>
+    <string name="heading2">cart</string>
+    <string name="PriceDescription">*One cup of Coffee cost ₹ 10 </string>
+    <string name="PriceCo9unter">Total Amount to be Paid:  ₹ 0 </string>
+    <string name="cartInfo">Nothing in Your Cart. Add your delicious Coffee and enjoy!</string>
+    <string name="buttonDec">-</string>
+    <string name="buttonInc">+</string>
+    <string name="buttonOrder">Order</string>
+    <string name="ItemCount">0</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="regular">25sp</dimen>
+    <dimen name="padd_reg">20dp</dimen>
+    <dimen name="marginTop">30dp</dimen>
+    <dimen name="marginBasicinfo">5dp</dimen>
+    <dimen name="marginStart">10dp</dimen>
+</resources>
